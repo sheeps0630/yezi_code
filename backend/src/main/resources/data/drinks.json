@@ -1,0 +1,17 @@
+[
+  { "id": "drink-mixue-zhenzhu", "productName": "珍珠奶茶", "brand": "蜜雪冰城", "category": "milk-tea", "priceYuan": 6, "note": "少冰三分甜" },
+  { "id": "drink-mixue-bingfeng", "productName": "冰鲜柠檬水", "brand": "蜜雪冰城", "category": "others", "priceYuan": 4, "note": "去冰，清爽解腻" },
+  { "id": "drink-xicha-duorou", "productName": "多肉葡萄", "brand": "喜茶", "category": "milk-tea", "priceYuan": 19, "note": "推荐少糖，果肉饱满" },
+  { "id": "drink-coco-sanxiongdi", "productName": "奶茶三兄弟", "brand": "CoCo都可", "category": "milk-tea", "priceYuan": 15, "note": "布丁+珍珠+椰果" },
+  { "id": "drink-yidiandian-baoba", "productName": "波霸奶茶", "brand": "一点点", "category": "milk-tea", "priceYuan": 14, "note": "三分糖去冰" },
+  { "id": "drink-bawang-boya", "productName": "伯牙绝弦", "brand": "霸王茶姬", "category": "milk-tea", "priceYuan": 16, "note": "招牌原叶鲜奶茶" },
+  { "id": "drink-chabaidai-yangzhi", "productName": "杨枝甘露", "brand": "茶百道", "category": "milk-tea", "priceYuan": 17, "note": "芒果+西柚，经典组合" },
+  { "id": "drink-yihetang-kaonai", "productName": "益禾堂烤奶", "brand": "益禾堂", "category": "milk-tea", "priceYuan": 10, "note": "奶香浓郁，微甜" },
+  { "id": "drink-luckin-shengye", "productName": "生椰拿铁", "brand": "瑞幸咖啡", "category": "coffee", "priceYuan": 15, "note": "椰浆+浓缩，招牌款" },
+  { "id": "drink-luckin-huangbeng", "productName": "橙C美式", "brand": "瑞幸咖啡", "category": "coffee", "priceYuan": 14, "note": "鲜橙汁+美式，提神" },
+  { "id": "drink-starbucks-latte", "productName": "拿铁", "brand": "星巴克", "category": "coffee", "priceYuan": 30, "note": "经典热拿铁" },
+  { "id": "drink-manner-yanmai", "productName": "燕麦拿铁", "brand": "Manner咖啡", "category": "coffee", "priceYuan": 20, "note": "自带杯减 5 元" },
+  { "id": "drink-cudi-shengye", "productName": "生椰拿铁", "brand": "库迪咖啡", "category": "coffee", "priceYuan": 10, "note": "性价比之选" },
+  { "id": "drink-naixue-chengzhi", "productName": "霸气橙汁", "brand": "奈雪的茶", "category": "others", "priceYuan": 18, "note": "鲜榨橙汁，无添加糖" },
+  { "id": "drink-hushi-chengzhi", "productName": "鲜榨橙汁", "brand": "沪上阿姨", "category": "others", "priceYuan": 12, "note": "现点现榨" }
+]

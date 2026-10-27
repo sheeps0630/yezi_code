@@ -1,0 +1,17 @@
+[
+  { "id": "dish-tomato-egg", "name": "番茄炒蛋", "category": "vegetable", "difficulty": "easy", "cookMinutes": 10, "ingredientTags": ["番茄", "鸡蛋"] },
+  { "id": "dish-vinegar-potato", "name": "醋溜土豆丝", "category": "vegetable", "difficulty": "easy", "cookMinutes": 15, "ingredientTags": ["土豆"] },
+  { "id": "dish-garlic-broccoli", "name": "蒜蓉西兰花", "category": "vegetable", "difficulty": "easy", "cookMinutes": 12, "ingredientTags": ["西兰花"] },
+  { "id": "dish-di-san-xian", "name": "地三鲜", "category": "vegetable", "difficulty": "medium", "cookMinutes": 25, "ingredientTags": ["茄子", "土豆"] },
+  { "id": "dish-spinach-egg", "name": "菠菜炒鸡蛋", "category": "vegetable", "difficulty": "easy", "cookMinutes": 10, "ingredientTags": ["鸡蛋"] },
+  { "id": "dish-hongshaorou", "name": "红烧肉", "category": "meat", "difficulty": "medium", "cookMinutes": 90, "ingredientTags": ["猪肉"] },
+  { "id": "dish-cola-chicken", "name": "可乐鸡翅", "category": "meat", "difficulty": "easy", "cookMinutes": 30, "ingredientTags": ["鸡肉"] },
+  { "id": "dish-tangcu-paigu", "name": "糖醋排骨", "category": "meat", "difficulty": "medium", "cookMinutes": 50, "ingredientTags": ["猪肉"] },
+  { "id": "dish-gongbao-chicken", "name": "宫保鸡丁", "category": "meat", "difficulty": "medium", "cookMinutes": 25, "ingredientTags": ["鸡肉"] },
+  { "id": "dish-yuxiang-rousi", "name": "鱼香肉丝", "category": "meat", "difficulty": "medium", "cookMinutes": 25, "ingredientTags": ["猪肉"] },
+  { "id": "dish-mapo-tofu", "name": "麻婆豆腐", "category": "meat", "difficulty": "medium", "cookMinutes": 20, "ingredientTags": ["猪肉"] },
+  { "id": "dish-yiner-geng", "name": "银耳莲子羹", "category": "dessert", "difficulty": "easy", "cookMinutes": 60, "ingredientTags": ["银耳莲子"] },
+  { "id": "dish-hongdousha", "name": "红豆沙", "category": "dessert", "difficulty": "easy", "cookMinutes": 60, "ingredientTags": ["豆类"] },
+  { "id": "dish-shuangpinai", "name": "双皮奶", "category": "dessert", "difficulty": "medium", "cookMinutes": 30, "ingredientTags": ["奶制品"] },
+  { "id": "dish-basi-digua", "name": "拔丝地瓜", "category": "dessert", "difficulty": "medium", "cookMinutes": 25, "ingredientTags": ["薯类"] }
+]

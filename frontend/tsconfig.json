@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    // 编译目标：现代浏览器，输出 ES2020
+    "target": "ES2020",
+    "useDefineForClassFields": true,
+    // 模块体系
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "lib": ["ES2020", "DOM", "DOM.Iterable"],
+    // 跳过依赖包的类型检查，只检查项目代码
+    "skipLibCheck": true,
+    /* 椰吃家前端使用严格模式 TypeScript，禁止隐式 any */
+    "strict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noFallthroughCasesInSwitch": true,
+    /* 构建相关 */
+    "esModuleInterop": true,
+    "isolatedModules": true,
+    "resolveJsonModule": true,
+    "noEmit": true,
+    /* 路径别名 */
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"]
+    }
+  },
+  // 仅对 src 目录和 vite.config.ts 做类型检查
+  "include": ["src/**/*.ts", "src/**/*.vue", "vite.config.ts"]
+}

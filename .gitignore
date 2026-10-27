@@ -1,0 +1,18 @@
+# 本地工具配置可能包含机器专属路径。
+.vscode/settings.json
+
+# Java / Maven 构建产物。
+backend/target/
+
+# Node.js 依赖和前端构建产物。
+frontend/node_modules/
+frontend/dist/
+
+# 可重新生成的发布压缩包不重复存入源码历史。
+releases/*.zip
+
+# 本地环境与日志。
+.env
+.env.*
+!.env.example
+*.log

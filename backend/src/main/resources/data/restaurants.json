@@ -1,0 +1,17 @@
+[
+  { "id": "rest-haidilao", "name": "海底捞火锅", "categoryName": "火锅", "address": "示例商圈 1 号楼 3 层", "distanceMeters": 800, "rating": 4.8 },
+  { "id": "rest-xiaolongkan", "name": "小龙坎火锅", "categoryName": "火锅", "address": "示例步行街 12 号", "distanceMeters": 1500, "rating": 4.5 },
+  { "id": "rest-bashu", "name": "巴蜀大宅门火锅", "categoryName": "火锅", "address": "示例大道 88 号", "distanceMeters": 2400, "rating": 4.3 },
+  { "id": "rest-muwu", "name": "木屋烧烤", "categoryName": "烧烤", "address": "示例夜市 A 区 5 号", "distanceMeters": 1000, "rating": 4.4 },
+  { "id": "rest-henjiuqian", "name": "很久以前羊肉串", "categoryName": "烧烤", "address": "示例路 66 号", "distanceMeters": 1900, "rating": 4.2 },
+  { "id": "rest-sushilang", "name": "寿司郎", "categoryName": "日料", "address": "示例购物中心 2 层", "distanceMeters": 700, "rating": 4.6 },
+  { "id": "rest-cunkou", "name": "村口日式定食", "categoryName": "日料", "address": "示例巷 8 号", "distanceMeters": 2200, "rating": 4.1 },
+  { "id": "rest-lanzhou", "name": "兰州手工拉面馆", "categoryName": "面馆", "address": "示例街 25 号", "distanceMeters": 500, "rating": 4.2 },
+  { "id": "rest-hefu", "name": "和府捞面", "categoryName": "面馆", "address": "示例广场 B1 层", "distanceMeters": 1300, "rating": 4.3 },
+  { "id": "rest-mixue", "name": "蜜雪冰城", "categoryName": "奶茶", "address": "示例街 3 号", "distanceMeters": 300, "rating": 4.1 },
+  { "id": "rest-xicha", "name": "喜茶", "categoryName": "奶茶", "address": "示例购物中心 1 层", "distanceMeters": 900, "rating": 4.5 },
+  { "id": "rest-luckin", "name": "瑞幸咖啡", "categoryName": "咖啡", "address": "示例写字楼底商", "distanceMeters": 400, "rating": 4.3 },
+  { "id": "rest-starbucks", "name": "星巴克", "categoryName": "咖啡", "address": "示例商业街 18 号", "distanceMeters": 1100, "rating": 4.4 },
+  { "id": "rest-naixue", "name": "奈雪的茶", "categoryName": "饮品", "address": "示例购物中心 1 层", "distanceMeters": 950, "rating": 4.4 },
+  { "id": "rest-hushishang", "name": "沪上阿姨", "categoryName": "饮品", "address": "示例路 51 号", "distanceMeters": 1600, "rating": 4.2 }
+]

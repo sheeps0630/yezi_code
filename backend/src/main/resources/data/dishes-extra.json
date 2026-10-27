@@ -1,0 +1,17 @@
+[
+  { "id": "dish-garlic-cabbage", "name": "蒜蓉白菜", "category": "vegetable", "difficulty": "easy", "cookMinutes": 12, "ingredientTags": ["白菜"] },
+  { "id": "dish-home-tofu", "name": "家常豆腐", "category": "vegetable", "difficulty": "easy", "cookMinutes": 18, "ingredientTags": ["豆腐"] },
+  { "id": "dish-mushroom-stir-fry", "name": "蚝油炒菌菇", "category": "vegetable", "difficulty": "easy", "cookMinutes": 15, "ingredientTags": ["菌菇"] },
+  { "id": "dish-beef-bell-pepper", "name": "青椒牛肉丝", "category": "meat", "difficulty": "medium", "cookMinutes": 25, "ingredientTags": ["牛肉"] },
+  { "id": "dish-cumin-lamb", "name": "孜然羊肉", "category": "meat", "difficulty": "medium", "cookMinutes": 25, "ingredientTags": ["羊肉"] },
+  { "id": "dish-duck-potato", "name": "土豆烧鸭", "category": "meat", "difficulty": "medium", "cookMinutes": 55, "ingredientTags": ["鸭肉"] },
+  { "id": "dish-fruit-yogurt", "name": "鲜果酸奶杯", "category": "dessert", "difficulty": "easy", "cookMinutes": 10, "ingredientTags": ["水果", "奶制品"] },
+  { "id": "dish-steamed-fish", "name": "清蒸鲈鱼", "category": "seafood", "difficulty": "medium", "cookMinutes": 25, "ingredientTags": ["鱼"] },
+  { "id": "dish-garlic-shrimp", "name": "蒜蓉粉丝虾", "category": "seafood", "difficulty": "medium", "cookMinutes": 25, "ingredientTags": ["虾"] },
+  { "id": "dish-ginger-scallion-crab", "name": "姜葱炒蟹", "category": "seafood", "difficulty": "medium", "cookMinutes": 30, "ingredientTags": ["蟹"] },
+  { "id": "dish-steamed-clams", "name": "蒜蓉蒸蛤蜊", "category": "seafood", "difficulty": "easy", "cookMinutes": 18, "ingredientTags": ["贝类"] },
+  { "id": "dish-winter-melon-soup", "name": "冬瓜海带汤", "category": "soup", "difficulty": "easy", "cookMinutes": 35, "ingredientTags": ["蔬菜汤"] },
+  { "id": "dish-mushroom-chicken-soup", "name": "菌菇鸡汤", "category": "soup", "difficulty": "easy", "cookMinutes": 65, "ingredientTags": ["菌菇汤"] },
+  { "id": "dish-pork-corn-soup", "name": "玉米排骨汤", "category": "soup", "difficulty": "easy", "cookMinutes": 75, "ingredientTags": ["肉汤"] },
+  { "id": "dish-seafood-tofu-soup", "name": "海鲜豆腐汤", "category": "soup", "difficulty": "easy", "cookMinutes": 25, "ingredientTags": ["海鲜汤"] }
+]

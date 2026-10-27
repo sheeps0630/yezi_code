@@ -1,0 +1,22 @@
+# 椰吃家后端服务配置
+server:
+  # 服务监听端口（沙箱演示环境 8080 被占用，使用 18080；部署时可按需调整）
+  port: 18080
+
+spring:
+  application:
+    # 应用名称
+    name: yechijia-backend
+  jackson:
+    # JSON 序列化使用下划线还是驼峰：保持驼峰，与前端 TypeScript 字段一致
+    property-naming-strategy: LOWER_CAMEL_CASE
+
+# 椰吃家业务自定义配置
+yechijia:
+  # 「喝什么」附近搜索的默认半径（公里），需求要求 3km
+  nearby-radius-km: 3
+  # 地图客户端类型：stub 为本地示例数据实现，生产环境接入高德/腾讯地图后替换
+  map-provider: stub
+  # 跨域允许的来源：演示环境默认 * 全放开；生产环境改为域名白名单，如 [https://yechijia.example.com]
+  cors:
+    allowed-origins: "*"
