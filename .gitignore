@@ -1,5 +1,6 @@
-# 本地工具配置可能包含机器专属路径。
+# 本地工具配置可能包含机器专属路径或认证信息。
 .vscode/settings.json
+.vscode/mcp.json
 
 # Java / Maven 构建产物。
 backend/target/
